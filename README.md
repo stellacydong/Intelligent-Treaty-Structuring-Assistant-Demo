@@ -3,7 +3,7 @@
 **Aiden** is an **AI co‑pilot for reinsurance treaty underwriters** that accelerates treaty structuring from **weeks to minutes**.
 It combines **LLM‑powered contract comprehension** with **RL‑driven optimization** to help underwriters **analyze, simulate, and design optimal treaty structures**—all through an **interactive 5‑step demo**.
 
-🔗 **Live Demo:** [Click here to try Aiden](https://stellacydong-reinsurance-analytics-transparent-marke-app-w3lwel.streamlit.app)
+🔗 **Live Demo:** [Click here to try Aiden](https://stellacydong-intelligent-treaty-structuring-assistan-app-7ccyqq.streamlit.app)
 
 ---
 
@@ -33,8 +33,8 @@ It combines **LLM‑powered contract comprehension** with **RL‑driven optimiza
 
 5. **Final Recommendation + Risk Heatmap**
 
-   * Aiden recommends the **top structure** with rationale.
-   * Visual **risk vs. return landscape** and heatmaps for intuitive decision‑making.
+   * Aiden recommends the **top structure** with clear rationale.
+   * Visual **risk vs. return landscapes** and heatmaps for intuitive decision‑making.
 
 ---
 
@@ -84,25 +84,32 @@ Then open the provided **local URL** (usually `http://localhost:8501`).
 
 Your app will be **live in minutes**.
 
+🔹 **Current Live App:**
+[https://stellacydong-intelligent-treaty-structuring-assistan-app-7ccyqq.streamlit.app](https://stellacydong-intelligent-treaty-structuring-assistan-app-7ccyqq.streamlit.app)
+
 ---
 
 ## 📊 Demo Flow
 
 1. **Step 1: Treaty Summary**
 
-   > Upload or use sample treaty → Aiden generates a structured summary.
+   > Use sample treaty → Aiden generates a structured summary.
+
 2. **Step 2: RL Optimization**
 
-   > Explore candidate structures with risk‑reward scatterplots.
+   > Explore candidate structures with a **risk‑reward scatterplot** and ROI benchmark.
+
 3. **Step 3: What‑If Analysis**
 
-   > Change attachment points → See instant ROI impact.
+   > Adjust attachment points → Instantly see ROI and loss changes.
+
 4. **Step 4: Chat with Aiden**
 
-   > Natural language treaty exploration with streaming replies.
+   > Ask scenario questions and receive **context‑aware streaming responses**.
+
 5. **Step 5: Final Recommendation**
 
-   > AI‑selected structure + Risk Heatmap + explanation.
+   > Get the **recommended structure**, risk heatmap, and narrated rationale.
 
 ---
 
@@ -115,12 +122,11 @@ Aiden:
 
 * Makes **smaller deals economical**
 * **Scales expert knowledge** for underwriters and brokers
-* Unlocks **faster, smarter, more transparent** reinsurance markets
+* Unlocks **faster, smarter, and more transparent** reinsurance markets
 
 ---
 
 ## 📄 License
 
 MIT License – Free to use and modify for demos and research.
-
 
