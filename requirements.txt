@@ -1,0 +1,12 @@
+# --- Core Streamlit App ---
+streamlit>=1.36.0
+
+# --- Data Handling ---
+pandas>=2.2.2
+numpy>=1.26.4
+
+# --- Visualization ---
+matplotlib>=3.9.0
+
+# --- Image Handling for logo.png ---
+pillow>=10.3.0
